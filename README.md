@@ -23,5 +23,4 @@ Ensure you have the following software installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/camouflaged-object-detection.git
-   cd camouflaged-object-detection
+   git clone https://github.com/ashu025/Camouflaged_Object_Detection_using_YOLOv5l.git
