@@ -7,7 +7,7 @@ This project aims to detect camouflaged objects using the COD10K dataset and the
 ## Project Highlights
 
 - **Dataset:** COD10K
-- **Model:** YOLOv5
+- **Model:** YOLOv5l
 - **Publication:** Shortlisted for Springer publication
 
 ## Getting Started
@@ -17,7 +17,7 @@ This project aims to detect camouflaged objects using the COD10K dataset and the
 Ensure you have the following software installed:
 - Python 3.6 or later
 - PyTorch 1.7.0 or later
-- YOLOv5 dependencies
+- YOLOv5l dependencies
 
 ### Installation
 
